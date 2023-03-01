@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/scusumpw"
-click B href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/main"
-click C href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/production"
-click D href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/esm"
-click E href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/deno"
-click F href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/scusumpw"
+%% click B href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/main"
+%% click C href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/production"
+%% click D href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/esm"
+%% click E href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/deno"
+%% click F href "https://github.com/stdlib-js/blas-ext-base-scusumpw/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/scusumpw
