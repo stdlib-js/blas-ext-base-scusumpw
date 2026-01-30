@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-26)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`721033e`](https://github.com/stdlib-js/stdlib/commit/721033eede9b3a4667728f40695d933f49f541c1) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5d83a20`](https://github.com/stdlib-js/stdlib/commit/5d83a20bab1fd787ba28f19cb13c20d395398b43) - **style:** remove double empty lines in C files _(by Philipp Burckhardt)_
 -   [`7457723`](https://github.com/stdlib-js/stdlib/commit/74577238d8a2c72ecd1011dfd54d028034c68531) - **refactor:** rename variable in `blas/ext/base/` [(#7250)](https://github.com/stdlib-js/stdlib/pull/7250) _(by Shabareesh Shetty)_
