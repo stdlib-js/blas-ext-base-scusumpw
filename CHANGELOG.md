@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3be5bc3`](https://github.com/stdlib-js/stdlib/commit/3be5bc3da7fa0f80d8db33ae9201b51144bdb3bd) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/scusumpw` [(#11109)](https://github.com/stdlib-js/stdlib/pull/11109) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
